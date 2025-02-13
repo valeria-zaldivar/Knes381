@@ -3,5 +3,5 @@
 Milk is being poured into a cup of black coffee. 
 <span style="color: orange;">This is a text with a different color.</span>
 [Read More](subfolder/readme.md)
-V&#775;O<sub>2</sub>
+<span style="text-decoration: overline;">V</span>O<sub>2</sub>
 
