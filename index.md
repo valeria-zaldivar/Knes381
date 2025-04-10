@@ -1,13 +1,13 @@
-# <center>KNES 381 Final Project</center> 💻
+# <center>KNES 381 Final Project 💻</center> 
 
 ### By: Valeria Zaldivar (30202724) | For: Dr. John Holash 
 
-**This website will provide a rundown on the topics covered in KNES 381.**
+**This website will provide a rundown on kinesiology-based data analysis and sport movement evaluation through Excel, Python, and Darthfish.**
 
 *The outline consists of:*
-<p>1. An Excel Spreadsheet covering athlete data</p>
-<p>2. A Python Program identifyinh VO2 values</p> 
-<p>3. A video Analysis on sport movement</p>
+<p>1. An Excel spreadsheet and graph covering athlete data.</p>
+<p>2. A Python Program graphing VO2 values.</p> 
+<p>3. A video Analysis on sport movement.</p>
  
 
 ## 📊**Excel Spreadsheet**
