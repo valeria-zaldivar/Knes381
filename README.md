@@ -18,6 +18,7 @@ Hi!😁👋
 * [Download Excel RAW file](https://github.com/valeria-zaldivar/Knes381/blob/821f67b0363de956ef227d204b2ea5e6c090ea6a/Excel.data_final.project_github.csv)
 | [Download sheet directly to Excel](https://github.com/valeria-zaldivar/Knes381/blob/b6e30cfe8e87ab297613d57de865eba04c7fcbc5/Excel%20data_final%20project.xltx)
 | [Download Graph](https://github.com/valeria-zaldivar/Knes381/blob/22ebbad23696b77d3ad08d5d59684c7dcf9a9d91/ExcelGraphics_FinalProject_github.xlt)
-* [Access Python Notebook](https://github.com/valeria-zaldivar/Knes381/blob/b86ae2aa8cca36060a0ef2fd1d223ac02fc3928a/KNES%20381_Python%20Assignment.ipynb)
+* [Access Python Code](https://github.com/valeria-zaldivar/Knes381/blob/b86ae2aa8cca36060a0ef2fd1d223ac02fc3928a/KNES%20381_Python%20Assignment.ipynb)
+  | [Access Kaggle Notebook](https://www.kaggle.com/code/valeriarzaldivar/knes-381-python-assignment)
 * [Download Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b86ae2aa8cca36060a0ef2fd1d223ac02fc3928a/Video%20Analysis.mov)
 
