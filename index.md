@@ -39,7 +39,7 @@
 
 - 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
 
-<img src="[https://github.com/your-repository/your-image.png](https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png)" alt="Athlete Data Graph" width="600">
+<img src="https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png" alt="Athlete Data Graph" width="600">
 
 
 
