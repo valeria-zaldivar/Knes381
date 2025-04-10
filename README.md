@@ -7,7 +7,7 @@ Hi!😁👋
 | **For: Dr. John Holash**
 
 ## Project Overview 📔 
-- **📊Excel Spreadsheet** -> *Analysis of athletes workload, recovery, and BMI.* 
+- **📊Excel Spreadsheet** -> *Analysis of athletes workload, recovery, BMI, physiological values, and performance.* 
 - **🐍Python Program** -> *VO2 data analysis and plotting against FECO2 and VCO2.* 
 - **📷Video Analysis** ->  *Analysis on biomechanics of knee flexion during a squat movement.*
 
