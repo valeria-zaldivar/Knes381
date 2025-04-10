@@ -1,11 +1,14 @@
 # <center>KNES 381 Final Project</center>
 ## For: Dr. John Holash 
-### By: Valeria Zaldivar
-<span style="color: orange;">This is a text with a different color.</span>
-[Read More.](subfolder/readme.md)
-[Click here to view the image.](images/myimage.jpg)
-V<span style="position: relative; top: -0.5em;">&#775;</span>O<sub>2</sub>
-<img src="images/myimage.jpg" alt="Descriptive Alt Text" style="float: right; width: 200px;">
-<p>Milk is being poured into a glass filled with coffee.<p>
+## By: Valeria Zaldivar
+
+<p>This website will provide a rundown on the topics covered in KNES 381.<p>
+
+<p>The outline consists of:</p>
+<p>1. An Excel Spreadsheet covering kinesiology-related data</p>
+<p>2. A Python Program</p> 
+<p>3. A video Analysis on sport movement</p>
+
+
 
 
