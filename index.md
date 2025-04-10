@@ -15,3 +15,4 @@
 [Excel data_final project_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
 
 "Add Python Assignment" 
+[KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1) 
