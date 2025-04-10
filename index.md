@@ -6,7 +6,7 @@
 
 *Website outline:*
 <p>1. An Excel spreadsheet and graph analyzing athlete data.</p>
-<p>2. A Python program interpreting metabolic data such as VO2 data.</p> 
+<p>2. A Python program interpreting metabolic data such as VO₂ data.</p> 
 <p>3. A biomechanical video analysis on squat kinematics.</p>
  
 
@@ -46,7 +46,7 @@
 **Figure 3**
 ![Kaggle Logo](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/kaggle.png)
 
-*Click on the link below to access the Python code in order to go more in depth into the process behind Figure 3:*
+*Click on the link below to access the Python code to go more in depth into the process behind Figure 3:*
 - 📔[KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
 
 - 🔗[View Kaggle Notebook](https://www.kaggle.com/code/valeriarzaldivar/knes-381-python-assignment) 
