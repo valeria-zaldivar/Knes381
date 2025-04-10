@@ -19,6 +19,7 @@
 
 *You can also download this sheet to see a graph comparing athletes physiological improvements to their performance and experience years:*
 - [KNES 381_Excel Graph.xls](https://github.com/valeria-zaldivar/Knes381/blob/91a3d47460d3c12f9df26af1fbf71bacc979eb22/ExcelGraphics_Final%20Project_github.xls)
+- [KNES 381_Excel Graph.xlt](https://github.com/valeria-zaldivar/Knes381/blob/1d202fbea56de42ff8e09c70ed5e616017d18c85/ExcelGraphics_FinalProject_github.xlt)
 
 ## **Python Program**
 <p>Click on the link below to the access a Python code that processes a set of VO2 data and plots it against FECO2 and VCO2:</p>
