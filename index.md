@@ -39,6 +39,13 @@
 
 - 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/04120d043d2fd97159755b51343c998ce5c38347/step%201.png" alt="Step 1" style="width: 23%; min-width: 150px;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%202.png" alt="Step 2" style="width: 23%; min-width: 150px;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%203.png" alt="Step 3" style="width: 23%; min-width: 150px;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png" alt="Step 4" style="width: 23%; min-width: 150px;">
+</div> 
+
 
 
 
