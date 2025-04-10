@@ -1,4 +1,6 @@
-# <center>HTML Assignment Valeria Zaldivar</center>
+# <center>KNES 381 Final Project</center>
+## For: Dr. John Holash 
+### By: Valeria Zaldivar
 <span style="color: orange;">This is a text with a different color.</span>
 [Read More.](subfolder/readme.md)
 [Click here to view the image.](images/myimage.jpg)
