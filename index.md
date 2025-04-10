@@ -16,16 +16,6 @@
 ![Athlete Data](/images/Picture1.png)
 ![Excel Logo](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/38d043391b81d569b13fdff6768ae0dafc509853/Picture1.png" 
-       alt="Athlete Data" 
-       style="max-width: 400px; width: 100%; border: 1px solid #eee; border-radius: 8px;">
-       
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png" 
-       alt="Excel Logo" 
-       style="max-width: 200px; width: 100%;">
-</div>
-
 - 📁[KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
 - 📁[KNES 381_Excel Data.xltxl](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
 - 📁[KNES 381_Excel Data.xls](https://github.com/valeria-zaldivar/Knes381/blob/6ca23d051b8fa11c9ce46a8e81f3c83c57496de9/ExcelAthleteData_Final%20Project_github%20(1).xls)
