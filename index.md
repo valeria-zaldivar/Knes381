@@ -27,9 +27,9 @@
 
 ## 📹**Video Analysis** 
 <p>Click on the link below to access a biomechanical analysis on knee flexion when performing a squat:</p>
-- 🏋️‍♂️[KNES 381 Video Analysis] (https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov) 
-- [Video](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov) 
 
+
+- 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
 
 
 
