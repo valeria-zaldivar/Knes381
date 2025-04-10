@@ -41,6 +41,11 @@
 
 <img src="https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png" alt="Athlete Data Graph" width="600">
 
+![Step 1](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/04120d043d2fd97159755b51343c998ce5c38347/step%201.png) 
+![Step 2](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%202.png)
+![Step 3](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%203.png)
+![Step 4](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png)
+
 
 
 
