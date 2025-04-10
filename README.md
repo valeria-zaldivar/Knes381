@@ -1,10 +1,13 @@
-# KNES 381 Final Project 
-## Outline 
-* Excel Spreadhseet using Kinesiology-related data
-* Video Analysis on relevant sport movements
+# KNES 381: Final Project 👩‍💻
 
+Hi!😁👋
+<p>Welcome to this semesters final project! 🎊</p>
 
-For: Dr. John Holash 
-By: Valeria Zaldivar
+**By: Valeria Zaldivar (30202724)**
+| **For: Dr. John Holash**
 
- 
+## Project Overview 📔 
+- **📊Excel Spreadsheet** -> *Analysis of Athletes workload, recovery, and BMI* 
+- **🐍Python Program** -> *VO2 data analysis and graphing against FECO2 and VCO2* 
+- **📷Video Analysis** ->  *Analysis on biomechanics of knee flexion during a squat movement
+
