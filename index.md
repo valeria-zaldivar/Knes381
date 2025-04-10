@@ -18,3 +18,5 @@
 
 *[KNES 381 Scratch Game.sb3](https://github.com/valeria-zaldivar/Knes381/blob/d5e0ff60a6d32aacd57db23f598fffecea8a3c50/Scratch%20Project%20(1).sb3)  
 
+*[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov)
+
