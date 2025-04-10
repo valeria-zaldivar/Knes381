@@ -1,6 +1,6 @@
 # <center>KNES 381 Final Project</center>
 ## For: Dr. John Holash 
-## By: Valeria Zaldivar (30202724)
+## By: Valeria Zaldivar (30202724).
 
 **This website will provide a rundown on the topics covered in KNES 381.**
 
