@@ -1,6 +1,6 @@
-# <center>KNES 381 Final Project</center>
-### For: Dr. John Holash 
-### By: Valeria Zaldivar (30202724)
+# <center>KNES 381 Final Project</center> 💻
+
+### By: Valeria Zaldivar (30202724) | For: Dr. John Holash 
 
 **This website will provide a rundown on the topics covered in KNES 381.**
 
@@ -10,26 +10,27 @@
 <p>3. A video Analysis on sport movement</p>
  
 
-## **Excel Spreadsheet**
+## 📊**Excel Spreadsheet**
 <p>Click on the links below to access an Excel sheet that uses athlete data to determine recovery, workload, and BMI:</p>
 
-- [KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
-- [KNES 381_Excel Data.xltxl](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
-- [KNES 381_Excel Data.xls](https://github.com/valeria-zaldivar/Knes381/blob/6ca23d051b8fa11c9ce46a8e81f3c83c57496de9/ExcelAthleteData_Final%20Project_github%20(1).xls)
+- 📁[KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
+- 📁[KNES 381_Excel Data.xltxl](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
+- 📁[KNES 381_Excel Data.xls](https://github.com/valeria-zaldivar/Knes381/blob/6ca23d051b8fa11c9ce46a8e81f3c83c57496de9/ExcelAthleteData_Final%20Project_github%20(1).xls)
 
 *You can also download this sheet to see a graph comparing athletes physiological improvements to their performance and experience years:*
-- [KNES 381_Excel Graph.xls](https://github.com/valeria-zaldivar/Knes381/blob/91a3d47460d3c12f9df26af1fbf71bacc979eb22/ExcelGraphics_Final%20Project_github.xls)
-- [KNES 381_Excel Graph.xlt](https://github.com/valeria-zaldivar/Knes381/blob/1d202fbea56de42ff8e09c70ed5e616017d18c85/ExcelGraphics_FinalProject_github.xlt)
+- 🗃️[KNES 381_Excel Graph.xls](https://github.com/valeria-zaldivar/Knes381/blob/91a3d47460d3c12f9df26af1fbf71bacc979eb22/ExcelGraphics_Final%20Project_github.xls)
+- 🗃️[KNES 381_Excel Graph.xlt](https://github.com/valeria-zaldivar/Knes381/blob/1d202fbea56de42ff8e09c70ed5e616017d18c85/ExcelGraphics_FinalProject_github.xlt)
 
-## **Python Program**
+## 🐍**Python Program**
 <p>Click on the link below to the access a Python code that processes a set of VO2 data and plots it against FECO2 and VCO2:</p>
- 
-- [KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
+- 📔[KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
 
-## **Video Analysis** 
+## 📹**Video Analysis** 
 <p>Click on the link below to access a biomechanical analysis on knee flexion when performing a squat:</p>
+- 🏋️‍♂️[KNES 381 Video Analysis] (https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov) 
+- [Video](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov) 
 
-- [KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov)
+
 
 
 
