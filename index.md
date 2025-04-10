@@ -16,7 +16,8 @@
 - [KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
 - [KNES 381_Excel Data.xltxl](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
 - [KNES 381_Excel Data.xls](https://github.com/valeria-zaldivar/Knes381/blob/6ca23d051b8fa11c9ce46a8e81f3c83c57496de9/ExcelAthleteData_Final%20Project_github%20(1).xls)
- ### *You can also download this sheet to see a graph comparing athletes physiological improvements to their performance and experience years:* 
+
+*You can also download this sheet to see a graph comparing athletes physiological improvements to their performance and experience years:*
 - [KNES 381_Excel Graph.xls](https://github.com/valeria-zaldivar/Knes381/blob/91a3d47460d3c12f9df26af1fbf71bacc979eb22/ExcelGraphics_Final%20Project_github.xls)
 
 ## **Python Program**
@@ -25,7 +26,7 @@
 - [KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
 
 ## **Video Analysis** 
-<p>Click on the link below to access a squat video that analyzes proper posture and angles:</p>
+<p>Click on the link below to access a biomechanical analysis on knee flexion when performing a squat:</p>
 
 - [KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov)
 
