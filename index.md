@@ -25,12 +25,13 @@
 <p>Click on the link below to the access a Python code that processes a set of VO2 data and plots it against FECO2 and VCO2:</p>
 - 📔[KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
 
+- [View Kaggle Notebook](https://www.kaggle.com/code/valeriarzaldivar/knes-381-python-assignment) 
+
 ## 📹**Video Analysis** 
 <p>Click on the link below to access a biomechanical analysis on knee flexion when performing a squat:</p>
 
 
 - 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
-
 
 
 
