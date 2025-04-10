@@ -20,3 +20,5 @@
 
 *[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/003208932714e94b7184b5864ca815eef116efca/Video%20Analysis.mov)
 
+[Excel data on the app](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
+
