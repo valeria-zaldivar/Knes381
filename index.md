@@ -14,6 +14,7 @@
 <p>Click on the links below to access an Excel sheet that uses athlete data to determine recovery, workload, and BMI:</p>
 
 ![Athlete Data](https://github.com/valeria-zaldivar/Knes381/blob/88126f44566360f1ca50e5aa96d61893b26c7bd1/images/Picture1.png)
+![Athlete Data](/images/Picture1.png)
 - 📁[KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
 - 📁[KNES 381_Excel Data.xltxl](https://github.com/valeria-zaldivar/Knes381/blob/771bf3447eaa43f3e5896032929fb5963431ce4a/images/Excel%20data_final%20project%20(1).xltx)
 - 📁[KNES 381_Excel Data.xls](https://github.com/valeria-zaldivar/Knes381/blob/6ca23d051b8fa11c9ce46a8e81f3c83c57496de9/ExcelAthleteData_Final%20Project_github%20(1).xls)
@@ -31,20 +32,13 @@
 ## 📹**Video Analysis** 
 <p>Click on the link below to access a biomechanical analysis on knee flexion when performing a squat:</p>
 
-![Step 1](https://github.com/valeria-zaldivar/Knes381/blob/04120d043d2fd97159755b51343c998ce5c38347/step%201.png) 
-![Step 2](https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%202.png)
-![Step 3](https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%203.png)
-![step 4](https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png)
-
-
-- 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
-
-<img src="https://github.com/valeria-zaldivar/Knes381/blob/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png" alt="Athlete Data Graph" width="600">
-
 ![Step 1](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/04120d043d2fd97159755b51343c998ce5c38347/step%201.png) 
 ![Step 2](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%202.png)
 ![Step 3](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%203.png)
 ![Step 4](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/669df066cb945b8702d72395cfcfd15ca1ada644/step%204.png)
+
+- 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
+
 
 
 
