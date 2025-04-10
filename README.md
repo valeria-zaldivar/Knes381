@@ -11,5 +11,6 @@ Hi!😁👋
 - **🐍Python Program** -> *VO2 data analysis and plotting against FECO2 and VCO2* 
 - **📷Video Analysis** ->  *Analysis on biomechanics of knee flexion during a squat movement
 
-[Link to website](https://github.com/valeria-zaldivar/Knes381/blob/32e2e1e0348b22feeb972f75d7ea855d4666cd29/index.md)
-[Download Excel RAW file](https://github.com/valeria-zaldivar/Knes381/blob/821f67b0363de956ef227d204b2ea5e6c090ea6a/Excel.data_final.project_github.csv)
+* [Link to website](https://github.com/valeria-zaldivar/Knes381/blob/32e2e1e0348b22feeb972f75d7ea855d4666cd29/index.md)
+* [Download Excel RAW file](https://github.com/valeria-zaldivar/Knes381/blob/821f67b0363de956ef227d204b2ea5e6c090ea6a/Excel.data_final.project_github.csv)
+* [Access Python Notebook](https://github.com/valeria-zaldivar/Knes381/blob/b86ae2aa8cca36060a0ef2fd1d223ac02fc3928a/KNES%20381_Python%20Assignment.ipynb)
