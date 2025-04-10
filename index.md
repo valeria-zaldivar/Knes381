@@ -22,7 +22,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/BRANCH_NAME/images/Picture1.png" alt="Athlete Data" style="max-width: 45%; height: auto;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/images/Picture1.png" alt="Athlete Data" style="max-width: 45%; height: auto;">
   <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png" alt="Excel Logo" style="max-width: 45%; height: auto;">
 </div>
 
