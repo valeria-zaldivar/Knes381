@@ -1,4 +1,4 @@
-# <center>KNES 381 Final Project 💻</center> 
+# <center>KNES 381 Final Project💻</center> 
 
 ### By: Valeria Zaldivar (30202724) | For: Dr. John Holash 
 
