@@ -16,14 +16,14 @@
 ![Athlete Data](/images/Picture1.png)
 ![Excel Logo](https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="/images/Picture1.png" alt="Athlete Data" style="max-width: 45%; height: auto; min-width: 200px;">
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png" alt="Excel Logo" style="max-width: 45%; height: auto; min-width: 200px;">
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/images/Picture1.png" alt="Athlete Data" style="max-width: 45%; height: auto;">
-  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png" alt="Excel Logo" style="max-width: 45%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/38d043391b81d569b13fdff6768ae0dafc509853/Picture1.png" 
+       alt="Athlete Data" 
+       style="max-width: 400px; width: 100%; border: 1px solid #eee; border-radius: 8px;">
+       
+  <img src="https://raw.githubusercontent.com/valeria-zaldivar/Knes381/9d40e74ba4fed9eb7c333b231d482936faec88ee/excel.png" 
+       alt="Excel Logo" 
+       style="max-width: 200px; width: 100%;">
 </div>
 
 - 📁[KNES 381_Excel Data_github.csv](https://github.com/user-attachments/files/19679017/Excel.data_final.project_github.csv)
