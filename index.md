@@ -48,7 +48,7 @@
 *[Click on the link below to access the Python code to go more in depth into the process behind Figure 3:]*
 - 📔[KNES 381_Python Assignment.ipynb](https://github.com/valeria-zaldivar/Knes381/blob/b3714e8d70bb99c537d17a93164c497e7c42fa1f/KNES%20381_Python%20Assignment.ipynb#L1)
 
-- 🔗[View Kaggle Notebook](https://www.kaggle.com/code/valeriarzaldivar/knes-381-python-assignment) 
+- 🔗[KNES 381_Kaggle Notebook](https://www.kaggle.com/code/valeriarzaldivar/knes-381-python-assignment) 
 
 ## 📹**Video Analysis** 
 <p>Through the use of Dartfish, a biomechanical analysis was carried on to observe knee flexion and posture when performing a squat. A brief overview can be seen in the pictures below.</p>
@@ -61,7 +61,7 @@
  </div>
 
 *[Click on the link below to access the full video:]*
-- 🏋️‍♂️[KNES 381 Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
+- 🏋️‍♂️[KNES 381_Video Analysis](https://github.com/valeria-zaldivar/Knes381/blob/b27af5a37442f4d409352bd06ff24a39dd261aa4/Video%20Analysis.mov)
 
 
 
